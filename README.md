@@ -3,7 +3,7 @@
 _소프트웨어 구조와 설계의 원칙_        
 
 
-<div style="text-align:right">로버트 C.마틴 지음 | 송준이 옮긺</div>
+<div align="right">로버트 C.마틴 지음 | 송준이 옮긺</div>
 
 
 
